@@ -1,7 +1,7 @@
-[Produce 101 Season 2 Rankings](https://p101s2.github.io/)
+[QUEENDOM PUZZLE RANKING]
 
-An interactive ranking chart for MNet's Produce 101 Season 2 made with d3.js.
+(Forked from https://p101s2.github.io/)
 
-Feel free to fork this project. If any derivative works are published to a website, I would greatly appreciate a link back to this repo. Thanks!
+An interactive ranking chart for MNet's Queendom Puzzle made with d3.js.
 
 ![alt text](screenshot.png "Screenshot")
